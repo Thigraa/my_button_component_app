@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot](http://(https://github.com/thigraa/my_button_component_app/blob/master/screenshot.png?raw=true)
+![screenshot](http://(https://github.com/[thigraa]/[my_button_component_app]/blob/[master]/screenshot.png?raw=true)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
